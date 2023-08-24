@@ -1,0 +1,7 @@
+opencv-python
+scikit-fuzzy
+scikit-learn
+matplotlib
+numpy
+pandas
+regex
